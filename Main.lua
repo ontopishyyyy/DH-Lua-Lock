@@ -1,7 +1,7 @@
 getgenv().dhlock = {
-    enabled = false,
+    enabled = true,
     showfov = false,
-    fov = 50,
+    fov = 120,
     keybind = Enum.UserInputType.MouseButton2,
     teamcheck = false,
     wallcheck = false,
